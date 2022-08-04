@@ -1,4 +1,5 @@
 #忽略index.css
-index.css
+*.css
 #忽略两个文件
 *.txt
+*.doc
