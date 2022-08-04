@@ -2,3 +2,4 @@
 index.css
 #忽略text下的文件
 text/
+*.txt
